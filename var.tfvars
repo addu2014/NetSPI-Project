@@ -1,0 +1,6 @@
+region              = "us-east-1"
+access_key_id       = ""
+secret_key_id       = ""
+ami_id              = "ami-083654bd07b5da81d"
+instance_type       = "t2.micro"
+subnet              = "subnet-0ab236e1d2c5e1ee9"   
